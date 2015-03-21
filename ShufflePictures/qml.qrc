@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>resources/StartGameButton.png</file>
+    </qresource>
+</RCC>
