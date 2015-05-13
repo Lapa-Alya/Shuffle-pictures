@@ -1,0 +1,10 @@
+Package: ShufflePictures
+Version: 1.1-1
+Provides: ShufflePictures
+Maintainer: Igor Martinov <gosha56good@gmail.com>
+Architecture: all
+Section: devel
+Description: Shuffle Pictures
+Depends: libqt4-core, libqt4-gui, libsource-highlight-qt4-3
+Build-Depends: debhelper (>= 7), g++, make, libqt4-dev, qt4-qmake, libsource-highlight-qt4-3
+Priority: optional

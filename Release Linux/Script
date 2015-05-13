@@ -1,0 +1,2 @@
+fakeroot dpkg-deb --build /home/windows/Desktop/SourseLinux
+
